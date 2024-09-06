@@ -3,6 +3,9 @@
     "airbnb",
     "prettier"
   ],
+  "plugins": [
+    "jest"
+  ],
   "rules": {
     "semi": "error",
     "quotes": "error",
